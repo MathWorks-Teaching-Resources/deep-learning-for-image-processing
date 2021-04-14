@@ -1,4 +1,5 @@
 # Teaching digital signal processing using deep learning with MATLAB®
+[![View deep-learning-for-image-processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/90496-deep-learning-for-image-processing)
 
 ## Introduction
 
